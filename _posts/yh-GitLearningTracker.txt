@@ -1,5 +1,0 @@
-Assign an issue
-Close an issue
-create branch
-Create new file
-commit the file
